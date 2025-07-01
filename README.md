@@ -18,7 +18,7 @@
 
 ## 🚀 Demo
 
-🔗 **Live Demo**: [https://veriloc.vercel.app/](https://veriloc.vercel.app/) *(Update with your deployed URL)*
+🔗 **Live Demo**: [https://veriloc.vercel.app/](https://veriloc.vercel.app/) 
 
 ![VeriLoc Screenshot](public/veriloc-preview.png)
 
@@ -31,7 +31,7 @@
 - **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework for styling.
 - **[TypeScript](https://www.typescriptlang.org/)**: Type-safe JavaScript for robust code.
 - **[Melissa Global Address API](https://rapidapi.com/melissadata/api/global-address)**: For address validation and standardization.
-- **[Google Maps Embed API](https://developers.google.com/maps/documentation/embed/overview)**: For geolocation visualization.
+- **[Google Maps Embed ](https://developers.google.com/maps/documentation/embed/overview)**: For geolocation visualization.
 - **[Geist Fonts](https://vercel.com/font)**: Modern typography for a clean look.
 
 ---
