@@ -40,8 +40,8 @@
 
 ### Prerequisites
 - **Node.js**: Version 18 or higher.
-- **Melissa API Key**: Obtain from [RapidAPI](https://rapidapi.com/melissadata/api/global-address).
-- **Google Maps API Key**: Optional for map embeds (get from [Google Cloud](https://developers.google.com/maps)).
+- **Melissa API Key**: Obtain from [RapidAPI](https://rapidapi.com/adminMelissa/api/global-address).
+
 
 ### 1. Clone the Repository
 
@@ -107,7 +107,7 @@ Deploy VeriLoc to Vercel with one click:
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AmruthLP12/veriloc)
 
 1. Connect your GitHub repository.
-2. Add `MELISSA_API_KEY` and `GOOGLE_MAPS_API_KEY` as environment variables in Vercel.
+2. Add `RAPIDAPI_KEY` as environment variables in Vercel.
 3. Deploy and get a live URL.
 
 ---
